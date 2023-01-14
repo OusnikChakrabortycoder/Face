@@ -1,0 +1,16 @@
+#Webcame{
+    height: 40%;
+    width: 40%;
+    box-shadow: 5px 5px 30px black;
+}
+#Final{
+    height: 40%;
+    width: 40%;
+    box-shadow: 5px 5px 30px rgb(204, 230, 5);
+}
+body{
+    background: linear-gradient(rgb(231, 17, 10),green );
+}
+#Imagerecognizer{
+    width: 80%;
+}
